@@ -1,0 +1,4 @@
+These files are from my work during CprE 185 during the Fall Semester 2017.
+The code in the homework folder is from our homework assignments.
+The code in the labs folder is from our labs and the accompanying lab report is included.
+Many of the code requires an Esplora unit or a special file to run but this repository should showcase my abilities in coding using the C Language even if you can't run some of the programs.
